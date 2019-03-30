@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "356001853769",
+    "firebase_url": "https://fcfas-2928f.firebaseio.com",
+    "project_id": "fcfas-2928f",
+    "storage_bucket": "fcfas-2928f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356001853769:android:011ac2f7d15aa05d",
+        "android_client_info": {
+          "package_name": "com.example.fcfasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356001853769-3pcvpobc2qksblfe743br97vfdd2e24m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcfasfirebase",
+            "certificate_hash": "7355dda48871fc05addab662468ece1f0f501973"
+          }
+        },
+        {
+          "client_id": "356001853769-8cqo4fedn3qldupl722f9ob2lm38fn3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VM1bLSrd9zOYfwy6AojuFoQ1y0TOBac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356001853769-8cqo4fedn3qldupl722f9ob2lm38fn3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356001853769:android:4f7b85494ffb4942",
+        "android_client_info": {
+          "package_name": "com.fcfas.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356001853769-a0pefe8u9s0f5iv8u0nb1o93u796u8bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcfas.firebase",
+            "certificate_hash": "0e4045e14096ecb134d49a3608a8d11cfc31eb45"
+          }
+        },
+        {
+          "client_id": "356001853769-4uma4nusdd89nepf5lcalel0tkav34jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcfas.firebase",
+            "certificate_hash": "7355dda48871fc05addab662468ece1f0f501973"
+          }
+        },
+        {
+          "client_id": "356001853769-8cqo4fedn3qldupl722f9ob2lm38fn3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VM1bLSrd9zOYfwy6AojuFoQ1y0TOBac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356001853769-8cqo4fedn3qldupl722f9ob2lm38fn3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
